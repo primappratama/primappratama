@@ -1,4 +1,4 @@
-![Prima Pratama]([img/githubprofile.webp](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif))
+![Prima Pratama]([img/mario.gif))
 
 #### Hello, I'm Prima!
 Welcome to my GitHub profile! I'm a passionate developer who loves exploring new technologies and building impactful projects.
