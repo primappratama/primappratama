@@ -5,6 +5,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 
 #### Tech Stack
 - Languages: JavaScript/TypeScript, PHP
-- Frameworks: React.js, Next.js, Vue.js
+- Frameworks: Laravel. React.js, Next.js, Vue.js
 - Databases: MongoDB, MySQL
 - Tools: Git, VSCode, Zed
