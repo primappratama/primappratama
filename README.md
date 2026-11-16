@@ -1,20 +1,38 @@
-# Prima Pratama
+### Prima Pratama
 
-Informatics Engineering Student · Developer
+Informatics student and full-stack developer, based in Sukabumi, Indonesia.
 
-Hi! I'm Prima, an Informatics Engineering student who enjoys building things with code, exploring new technologies, and learning along the way.
+<br>
 
-### Technologies
+I study Informatics Engineering at Universitas Muhammadiyah Sukabumi. Most of what I've built so far was for other people. These days I'm building more of my own.
 
-- **Languages:** JavaScript, TypeScript, PHP
-- **Frameworks:** Laravel, React.js, Next.js, Vue.js
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, VS Code, Zed
+I like software that stays quiet: clear structure, nothing extra, and interfaces that get out of the way.
 
-### Currently
+<br>
 
-Exploring web development, improving my skills, and building projects.
+**Now**
 
----
+- [`lungsur.`](https://github.com/primappratama/lungsur): a second-hand marketplace, launching at my campus in early 2027
+- `ritma`: a productivity app for students, with a planner, tasks and a focus timer
+- my undergraduate thesis, on HMIF Apps and Design Thinking
 
-*Building, learning, and growing.*
+**Built**
+
+- **BEM KM UMMI**: a web system for the student executive board, with a role-based admin panel. Laravel 12, Inertia, React
+- **LUMA**: a management system for an iPhone resale business I started. Next.js 14, Prisma, MySQL
+- [`ternak`](https://github.com/primappratama/ternak): a livestock management app, built for practice. Expo, React Native
+
+**Stack**
+
+```text
+languages   typescript · javascript · php
+web         next.js · react · laravel · vue · tailwind
+mobile      react native · expo
+data        mysql · postgresql · mongodb · prisma · drizzle · firebase
+iot         arduino · esp32
+tools       git · vs code · zed · figma
+```
+
+<br>
+
+<sub>Sukabumi, Indonesia · UTC+7 · pelan-pelan, yang penting jalan.</sub>
