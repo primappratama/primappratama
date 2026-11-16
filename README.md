@@ -1,26 +1,20 @@
- <div align="center">
+# Prima Pratama
 
-# Hi, I'm Prima Pratama 👋
+Informatics Engineering Student · Developer
 
-Informatics Engineering Student | Developer
+Hi! I'm Prima, an Informatics Engineering student who enjoys building things with code, exploring new technologies, and learning along the way.
 
-Welcome to my GitHub profile! I enjoy building web applications, exploring new technologies, and learning something new every day.
-
-<img src="img/mario.gif" width="150" alt="Mario">
-
-</div>
-
-### Tech Stack
+### Technologies
 
 - **Languages:** JavaScript, TypeScript, PHP
 - **Frameworks:** Laravel, React.js, Next.js, Vue.js
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, VS Code, Zed
 
+### Currently
+
+Exploring web development, improving my skills, and building projects.
+
 ---
 
-<div align="center">
-
-*Keep learning, keep building.*
-
-</div>
+*Building, learning, and growing.*
