@@ -1,33 +1,38 @@
-<div align="center">
-
-<h1>Prima Pratama</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=420&height=30&lines=Full-stack+Developer;Informatics+Engineering+Student;Sukabumi%2C+Indonesia" alt="Full-stack Developer · Informatics Engineering Student · Sukabumi, Indonesia" />
-
-<br><br>
-
-I build web and mobile apps, mostly with Laravel, Next.js and Expo.<br>
-I like software that stays quiet: clear structure, nothing extra.
-
-<br>
-
-<h3>Tech Stack</h3>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,php,laravel,react,nextjs,vue,tailwind,mysql,postgres,mongodb,prisma,firebase,git,vscode,figma&perline=8&theme=dark" />
-  <img alt="TypeScript, JavaScript, PHP, Laravel, React, Next.js, Vue, Tailwind CSS, MySQL, PostgreSQL, MongoDB, Prisma, Firebase, Git, VS Code, Figma" src="https://skillicons.dev/icons?i=ts,js,php,laravel,react,nextjs,vue,tailwind,mysql,postgres,mongodb,prisma,firebase,git,vscode,figma&perline=8&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Prima Pratama — full-stack developer and informatics student, Sukabumi, Indonesia" src="assets/banner-light.svg" width="100%">
 </picture>
 
-<br><br>
+<br>
 
-<h3>Currently</h3>
+Hi, I'm Prima. I study Informatics Engineering at Universitas Muhammadiyah Sukabumi and build web and mobile apps end to end, from the first Figma frame to the database behind it.
 
-Writing my undergrad thesis &nbsp;·&nbsp; Building a few things of my own
+I care about software that stays quiet: clear structure, nothing extra, and interfaces that get out of the way.
+
+### Stack
+
+| Area      | Tools                                              |
+| :-------- | :------------------------------------------------- |
+| Languages | TypeScript · JavaScript · PHP                      |
+| Web       | Laravel · Next.js · React · Vue · Tailwind CSS     |
+| Mobile    | React Native · Expo                                |
+| Data      | MySQL · PostgreSQL · MongoDB · Prisma · Firebase   |
+| Design    | Figma                                              |
+| IoT       | Arduino · ESP32                                    |
+| Everyday  | Git · VS Code · Zed                                |
+
+### Right now
+
+- Writing my undergraduate thesis, graduating in 2027
+- Getting better at mobile development with Expo
+- Learning cloud fundamentals on AWS
+
+### Outside code
+
+- Photography: graduation portraits, products and events
+- Shinify, a vehicle-care brand I started
+- Chaired HMIF UMMI, our informatics student association, for the 2025/2026 term
 
 <br>
 
----
-
 <sub>pelan-pelan, yang penting jalan.</sub>
-
-</div>
