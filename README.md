@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Prima Pratama — full-stack developer and informatics student, Sukabumi, Indonesia" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="img/banner-dark.svg">
+  <img alt="Prima Pratama — full-stack developer and informatics student, Sukabumi, Indonesia" src="img/banner-light.svg" width="100%">
 </picture>
 
 <br>
